@@ -89,9 +89,9 @@
                         </constraints>
                         <variation key="default">
                             <mask key="constraints">
-                                <exclude reference="pEW-vc-IRe"/>
                                 <exclude reference="ieN-hD-vTN"/>
                                 <exclude reference="QIB-1G-KA2"/>
+                                <exclude reference="pEW-vc-IRe"/>
                                 <exclude reference="ASu-v7-3Xw"/>
                             </mask>
                         </variation>
@@ -340,6 +340,24 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="gbb-PH-OXa" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="4162" y="-317"/>
+        </scene>
+        <!--Code Reader View Controller-->
+        <scene sceneID="TMZ-I8-tOr">
+            <objects>
+                <viewController id="Sej-fX-9w8" customClass="RSCodeReaderViewController" customModule="RSBarcodes_Swift" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="zgA-yx-xzf"/>
+                        <viewControllerLayoutGuide type="bottom" id="Y1D-RT-DTe"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="xYF-BL-8RB">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="4TU-sE-vqu" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="4146" y="391"/>
         </scene>
         <!--Book View Controller-->
         <scene sceneID="wSV-2r-5DK">

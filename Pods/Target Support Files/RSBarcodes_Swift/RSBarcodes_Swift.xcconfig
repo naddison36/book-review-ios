@@ -1,0 +1,1 @@
+RSBARCODES_SWIFT_OTHER_LDFLAGS = -framework "AVFoundation" -framework "CoreImage" -framework "QuartzCore"

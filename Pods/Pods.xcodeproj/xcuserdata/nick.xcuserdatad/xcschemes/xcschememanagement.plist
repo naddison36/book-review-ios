@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Alamofire.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Bolts.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -29,30 +34,45 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>SwiftyJSON.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>45C0BC7D5A9BAD1EF0B9C872A6CBADEB</key>
+		<key>25E0F0AEF3D0FF9A663EBD748DD275FD</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>50EFDFFCD56B8E1ABED00D1815CB95D3</key>
+		<key>3373E06685649808AA720F558A6F7CAE</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>5E732A88AA14C2778A13E293BA80DDB9</key>
+		<key>4CB69E9D2210E6AB25FC2A6B3154540C</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>6214B32270F5238D88580388C72E50A9</key>
+		<key>7BB87F7239A6BD7EF2CA086946BBCA7B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>950747D7A761691C5FC6994FFE4767E6</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
 		<key>9F793F4D135A4DD7EE8A289B40CF41A5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FAF2AEB73DDB647E5CCE2F4115A0EF26</key>
 		<dict>
 			<key>primary</key>
 			<true/>
